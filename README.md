@@ -1,2 +1,2 @@
 # TestGit
-This is juts for test git
+This is just for test git
